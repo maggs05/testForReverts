@@ -1,4 +1,4 @@
 Name: Margaret Gose
 birthdate 8/1/87
 favorite color: blue
-Favorite movie: Home Alone (the original one)
+Favorite movie: home alone (the original one)
